@@ -8,7 +8,7 @@
 
 ### Table of Contents
 
-You're sections headers will be used to reference location of destination.
+<ins>Sections</ins>
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -78,6 +78,7 @@ const color = document.querySelector("input[name='color-selector']:checked").val
 
 - Twitter - [@richmondelaigwu](https://twitter.com/richmondelaigwu)
 - GitHub - [Richmond Elaigwu](https://github.com/Sprof22)
+
   [Back To The Top](#Todo-App)
 
 ---
